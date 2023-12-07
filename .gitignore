@@ -1,3 +1,5 @@
+init-env.sh
+
 *.pyc
 venv/
 Pulumi.dev.yaml
